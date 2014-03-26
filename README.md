@@ -7,4 +7,4 @@ In order to use the [Software], you must agree to the terms and conditions set f
 
 ### Get the Client SDK and Example Code
 
-Please contact us at support@pubnub.com to get in the official PubNub Microchip PIC32 client SDK and example files.
+Please contact us at support@pubnub.com to get the official PubNub Microchip PIC32 client SDK and example files.
