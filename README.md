@@ -2,3 +2,9 @@ pic32
 =====
 
 PubNub for PIC32
+
+In order to use the [Software], you must agree to the terms and conditions set forth in the file mla-license.txt.
+
+### Get the Client SDK and Example Code
+
+Please contact us at support@pubnub.com to get in the official PubNub Microchip PIC32 client SDK and example files.
