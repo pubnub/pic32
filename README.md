@@ -1,7 +1,7 @@
 pic32
 =====
 
-PubNub for PIC32 Standalone, and PIC32 for MPLAB Harmony
+PubNub for Microchip PIC32 Standalone, and Microchip PIC32 for MPLAB Harmony
 
 In order to use the [Software], you must agree to the terms and conditions set forth in the file mla-license.txt.
 
