@@ -7,4 +7,4 @@ In order to use the [Software], you must agree to the terms and conditions set f
 
 ### Get the Client SDK and Example Code
 
-Please contact us at support@pubnub.com to get the official PubNub Microchip PIC32 client SDK and example files for both PIC32 Standalone development, as well as for MPLAB Harmony PIC32 development.
+[This repo has moved to [https://github.com/pubnub/pic32-prod](https://github.com/pubnub/pic32-prod)
