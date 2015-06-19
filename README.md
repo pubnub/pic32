@@ -7,4 +7,4 @@ In order to use the [Software], you must agree to the terms and conditions set f
 
 ### Get the Client SDK and Example Code
 
-[This repo has moved to [https://github.com/pubnub/pic32-prod](https://github.com/pubnub/pic32-prod)
+This repo has moved to [https://github.com/pubnub/pic32-prod](https://github.com/pubnub/pic32-prod)
